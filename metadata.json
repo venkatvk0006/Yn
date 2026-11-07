@@ -1,0 +1,6 @@
+{
+  "name": "Venkat",
+  "description": "MTZ Theme Installer and Customizer for Xiaomi HyperOS 1 Indian ROM devices with theme parsing, live previews, component mix-and-match, and step-by-step applying engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
